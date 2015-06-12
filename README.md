@@ -1,10 +1,18 @@
-Here is the link to the Objective-C version 
-[Objective-C version  By Clément Wehrung](https://github.com/iclems/iOS-htmltopdf)
+# Credits
+This project has been converted from Objective-C to Swift 1.2 using MyAppConverter®.
+
+Clément Wehrung is the author of the objective-C version, you can check	the original source code from the following repo: 
+
+https://github.com/iclems/iOS-htmltopdf
+
+We sincerely appreciate your interest and contribution!
+
+Have fun.
+
+MyAppConverter Team.
 
 iOS-htmltopdf
 =============
-Donate to support the author : 
-[<img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P9MWVQ5H6PP5L)
 
 This class enables simple URL-based PDF creation. Pages are created the exact same way they would be if the user printed the content on an iOS device (very similar as well as OS X print output).
 
